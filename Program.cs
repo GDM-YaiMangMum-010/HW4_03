@@ -12,30 +12,41 @@ class Program
             g.AddNode(count1);
         }
 
-        for (int count2 = 2; count2 != 1; count2++)
+        bool count2 = true;
+        while(count2 == true)
         {
             i = int.Parse(Console.ReadLine());
             j = int.Parse(Console.ReadLine());
-            if(0 < i || i < n-1 && 0 < j || j < n-1)
+            if(i >= 0 && i < n && j >= 0 && j < n)
             {
                 g.AddEdge(i,j,1);
-                
             }
             else
             {
-                count2 = 1;
+                count2 = false;
+                icheck = j;
             }
         }
-        Console.WriteLine(g.GetNodeCount());
-        icheck = int.Parse(Console.ReadLine());
         jcheck = int.Parse(Console.ReadLine());
 
-        for(int o=0; o<g.GetNodeCount(); o++)
+        bool check = true;
+        if(check == true)
         {
-            Console.WriteLine(g.GetNode(o));
+            Console.WriteLine("Reachable");
+        }
+        else
+        {
+            Console.WriteLine("Unreachable");
         }
 
         /*
+        LinkedList<int> nodeValueList = g.GetAllNode();
+        for(int a=0; a<nodeValueList.GetLength(); a++)
+        {
+            Console.WriteLine(nodeValueList.Get(a));
+        }
+
+        
         g.AddNode("A");
         g.AddNode("B");
         g.AddNode("C");
