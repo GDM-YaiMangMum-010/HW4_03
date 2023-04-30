@@ -1,0 +1,15 @@
+F:\MDT\2022\GDM222\HW4\HW4_03\bin\Debug\net6.0\HW4_03.exe
+F:\MDT\2022\GDM222\HW4\HW4_03\bin\Debug\net6.0\HW4_03.deps.json
+F:\MDT\2022\GDM222\HW4\HW4_03\bin\Debug\net6.0\HW4_03.runtimeconfig.json
+F:\MDT\2022\GDM222\HW4\HW4_03\bin\Debug\net6.0\HW4_03.dll
+F:\MDT\2022\GDM222\HW4\HW4_03\bin\Debug\net6.0\HW4_03.pdb
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.csproj.AssemblyReference.cache
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.GeneratedMSBuildEditorConfig.editorconfig
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.AssemblyInfoInputs.cache
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.AssemblyInfo.cs
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.csproj.CoreCompileInputs.cache
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.dll
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\refint\HW4_03.dll
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.pdb
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\HW4_03.genruntimeconfig.cache
+F:\MDT\2022\GDM222\HW4\HW4_03\obj\Debug\net6.0\ref\HW4_03.dll
